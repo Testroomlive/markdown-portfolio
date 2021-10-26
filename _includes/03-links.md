@@ -1,1 +1,1 @@
-[Github Profile] (https://github.com/Testroomlive)
+[Github Profile](https://github.com/Testroomlive)
