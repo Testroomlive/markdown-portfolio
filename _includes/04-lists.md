@@ -1,4 +1,4 @@
-#Here is a list of y favorite things
+#Here is a list of my favorite things
 <ol>
 <li>Swimming</li>
-<li>Volunterring for causes</li>
+<li>Volunteering for causes</li>
